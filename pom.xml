@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.security_project</groupId>
-    <artifactId>SecurityProject</artifactId>
+    <artifactId>SecurityProjectJWT</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>Security Project</name>
     <description>Security Project</description>
